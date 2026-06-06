@@ -5,7 +5,15 @@
       "Bash(ls \"C:\\\\Users\\\\yaniv\\\\.claude\\\\\")",
       "Read(//c/Users/yaniv/**)",
       "Bash(ls \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\\" 2>/dev/null || echo \"not found\")",
-      "Read(//c/Users/yaniv/.antigravity-ide\" 2>/dev/**)"
+      "Read(//c/Users/yaniv/.antigravity-ide\" 2>/dev/**)",
+      "Bash(gws --help)",
+      "Bash(gws auth *)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\yaniv\\\\Downloads\" -Filter \"client_secret*\")",
+      "PowerShell(gws gmail users messages list --params '{\"userId\": \"me\", \"maxResults\": 3}' 2>&1)",
+      "PowerShell(gws gmail users messages list --params \"{\\\\\"userId\\\\\": \\\\\"me\\\\\", \\\\\"maxResults\\\\\": 3}\" 2>&1)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\yaniv\\.config"
     ]
   }
 }

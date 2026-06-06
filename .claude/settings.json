@@ -13,7 +13,19 @@
       "Bash(npx pixa-mcp@latest init)",
       "PowerShell(npx pixa-mcp@latest init 2>&1)",
       "PowerShell(node --version; npm --version; \\(Get-Command npm\\).Source 2>$null)",
-      "PowerShell(\\(Get-Command claude\\).Source 2>$null; claude --version 2>&1)"
+      "PowerShell(\\(Get-Command claude\\).Source 2>$null; claude --version 2>&1)",
+      "Bash(gh api *)",
+      "PowerShell(Invoke-WebRequest -Uri \"https://api.github.com/repos/alirezarezvani/claude-skills/contents/skills\" -UseBasicParsing)",
+      "PowerShell(git clone https://github.com/alirezarezvani/claude-skills.git \"$env:TEMP\\\\alireza-skills\" --depth 1 --quiet 2>&1; Write-Host \"alireza done: $?\")",
+      "PowerShell(git clone https://github.com/glebis/claude-skills.git \"$env:TEMP\\\\glebis-skills\" --depth 1 --quiet 2>&1; Write-Host \"glebis done: $?\")",
+      "PowerShell(Get-ChildItem \"$env:TEMP\\\\glebis-skills\" -Directory | Select-Object -ExpandProperty Name | Sort-Object)",
+      "PowerShell(python -m pip show browser-use 2>&1)",
+      "PowerShell(python --version 2>&1)",
+      "PowerShell(Get-Command python, python3, py -ErrorAction SilentlyContinue)",
+      "PowerShell(node --version 2>&1)",
+      "PowerShell(npm --version 2>&1)",
+      "PowerShell(uv --version 2>&1)",
+      "PowerShell(winget list python 2>&1)"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",

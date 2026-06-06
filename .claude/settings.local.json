@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\yaniv\\\\AppData\\\\Roaming\" -Force | Where-Object { $_.PSIsContainer } | Select-Object Name)",
+      "Bash(ls \"C:\\\\Users\\\\yaniv\\\\.claude\\\\\")",
+      "Read(//c/Users/yaniv/**)",
+      "Bash(ls \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\\" 2>/dev/null || echo \"not found\")",
+      "Read(//c/Users/yaniv/.antigravity-ide\" 2>/dev/**)"
+    ]
+  }
+}

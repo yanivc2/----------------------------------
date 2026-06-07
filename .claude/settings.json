@@ -41,7 +41,8 @@
       "PowerShell(Get-Content \"$env:APPDATA\\\\Antigravity IDE\\\\User\\\\settings.json\")",
       "PowerShell(npm show @modelcontextprotocol/server-github version 2>&1)",
       "PowerShell(npm show @upstash/context7-mcp version 2>&1)",
-      "PowerShell(npm show @playwright/mcp version 2>&1)"
+      "PowerShell(npm show @playwright/mcp version 2>&1)",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\\\\sticker-gunior.svg\")"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",

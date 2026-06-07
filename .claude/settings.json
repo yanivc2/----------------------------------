@@ -42,12 +42,15 @@
       "PowerShell(npm show @modelcontextprotocol/server-github version 2>&1)",
       "PowerShell(npm show @upstash/context7-mcp version 2>&1)",
       "PowerShell(npm show @playwright/mcp version 2>&1)",
-      "PowerShell(Start-Process \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\\\\sticker-gunior.svg\")"
+      "PowerShell(Start-Process \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\\\\sticker-gunior.svg\")",
+      "PowerShell(explorer \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\")",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\Public\\\\sticker-gunior.svg\")"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",
       "c:\\Users\\yaniv\\עיצוב חזית הדבקה על זכוכיות גוניור\\rules",
-      "C:\\Users\\yaniv\\.claude\\templates\\project"
+      "C:\\Users\\yaniv\\.claude\\templates\\project",
+      "C:\\Users\\yaniv\\����� ���� ����� �� ������� ������"
     ]
   },
   "skillOverrides": {

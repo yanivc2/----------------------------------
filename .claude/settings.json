@@ -25,7 +25,23 @@
       "PowerShell(node --version 2>&1)",
       "PowerShell(npm --version 2>&1)",
       "PowerShell(uv --version 2>&1)",
-      "PowerShell(winget list python 2>&1)"
+      "PowerShell(winget list python 2>&1)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\extensions\\\\\" | Where-Object { $_.Name -match \"mcp|api|server|claude\" } | Select-Object Name)",
+      "PowerShell(Get-Process -Id 13988, 11892 -ErrorAction SilentlyContinue)",
+      "PowerShell($pkg = Get-Content \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\extensions\\\\anthropic.claude-code-2.1.168-win32-x64\\\\package.json\" | ConvertFrom-Json; $pkg.contributes.PSObject.Properties.Name)",
+      "PowerShell($pkg = Get-Content \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\extensions\\\\anthropic.claude-code-2.1.168-win32-x64\\\\package.json\" | ConvertFrom-Json; $pkg.contributes.configuration.properties.PSObject.Properties | Where-Object { $_.Name -match \"mcp|api|server|port\" } | Select-Object Name, @{N='Value';E={$_.Value.description}})",
+      "PowerShell(try { $r = Invoke-WebRequest \"http://127.0.0.1:22428\" -TimeoutSec 3 -ErrorAction Stop; $r.StatusCode; $r.Content.Substring\\(0, [Math]::Min\\(500, $r.Content.Length\\)\\) } catch { $_.Exception.Message })",
+      "PowerShell(try { $r = Invoke-WebRequest \"http://127.0.0.1:51256\" -TimeoutSec 3 -ErrorAction Stop; $r.StatusCode; $r.Content.Substring\\(0, [Math]::Min\\(500, $r.Content.Length\\)\\) } catch { $_.Exception.Message })",
+      "PowerShell(try { $r = Invoke-WebRequest \"http://127.0.0.1:51256/\" -TimeoutSec 5 -Method GET -Headers @{\"Accept\"=\"application/json\"} -ErrorAction Stop; $r.StatusCode; $r.RawContent.Substring\\(0, [Math]::Min\\(1000, $r.RawContent.Length\\)\\) } catch { $_.Exception.Response.StatusCode; $_.Exception.Message })",
+      "PowerShell($paths = @\\(\"/mcp\", \"/api\", \"/sse\", \"/health\", \"/v1\", \"/info\", \"/status\"\\); foreach \\($p in $paths\\) { try { $r = Invoke-WebRequest \"http://127.0.0.1:51256$p\" -TimeoutSec 3 -ErrorAction Stop; Write-Host \"$p -> $\\($r.StatusCode\\): $\\($r.Content.Substring\\(0, [Math]::Min\\(200, $r.Content.Length\\)\\)\\)\" } catch { Write-Host \"$p -> $\\($_.Exception.Response.StatusCode\\): $\\($_.Exception.Message.Substring\\(0, [Math]::Min\\(80, $_.Exception.Message.Length\\)\\)\\)\" } })",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\yaniv\\\\.antigravity-ide\\\\\" -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.Name -match \"mcp|api\" } | Select-Object FullName)",
+      "PowerShell(Get-ChildItem \"$env:APPDATA\\\\Antigravity IDE\" -ErrorAction SilentlyContinue | Select-Object Name, PSIsContainer | Sort-Object Name)",
+      "PowerShell(Get-ChildItem \"$env:APPDATA\\\\Antigravity IDE\\\\User\\\\\" -ErrorAction SilentlyContinue | Select-Object Name, PSIsContainer | Sort-Object Name)",
+      "PowerShell(Get-Content \"$env:APPDATA\\\\Antigravity IDE\\\\User\\\\settings.json\" | Select-String \"mcp|server|api|port\" -CaseSensitive:$false | Select-Object -First 30)",
+      "PowerShell(Get-Content \"$env:APPDATA\\\\Antigravity IDE\\\\User\\\\settings.json\")",
+      "PowerShell(npm show @modelcontextprotocol/server-github version 2>&1)",
+      "PowerShell(npm show @upstash/context7-mcp version 2>&1)",
+      "PowerShell(npm show @playwright/mcp version 2>&1)"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",
@@ -33,7 +49,21 @@
       "C:\\Users\\yaniv\\.claude\\templates\\project"
     ]
   },
+  "skillOverrides": {
+    "shannon": "user-invocable-only"
+  },
   "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "Write-Output '{\"systemMessage\": \"⚠️ כללים קריטיים:\\n1. לפני כל התקנת סקיל/הוק — /install-review חובה (אם לא קיים — בדיקה ידנית + אישור מפורש)\\n2. אסור לגשת ל-Google/GWS ללא אישור מפורש\\n3. לא לעשות commit/push ללא בקשה מפורשת\\n4. הסברים תמיד בעברית\"}'",
+            "shell": "powershell"
+          }
+        ]
+      }
+    ],
     "Stop": [
       {
         "hooks": [
@@ -41,6 +71,12 @@
             "type": "command",
             "command": "[System.Media.SystemSounds]::Beep.Play()",
             "shell": "powershell"
+          },
+          {
+            "type": "agent",
+            "prompt": "You are ריוי (Revi), the code quality guardian for this project. First run: git diff HEAD --name-only to see what changed. If there are source code files changed (ignore .md, SKILL.md, .json, settings files — only review actual code like .ts, .tsx, .js, .jsx, .py, .css), then run /code-review to check for bugs, correctness issues, disorganized code, and things that should be simplified or shortened. Report findings concisely in Hebrew. If no relevant code changed in this turn, output nothing silently.",
+            "timeout": 120,
+            "statusMessage": "ריוי בודק את הקוד..."
           }
         ]
       }

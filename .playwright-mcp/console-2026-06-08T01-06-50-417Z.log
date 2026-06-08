@@ -1,2 +1,0 @@
-[   12722ms] [WARNING] Fallback to JQueryUI Compat activated. Your store is missing a dependency for a jQueryUI widget. Identifying and addressing the dependency will drastically improve the performance of your site. @ https://www.cctvcameraworld.com/static/frontend/cw/security/en_US/jquery/compat.min.js:0
-[   12722ms] [LOG] javascript-cw.js loaded @ https://www.cctvcameraworld.com/static/frontend/cw/security/en_US/js/javascript-cw.min.js:2

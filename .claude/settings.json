@@ -57,9 +57,10 @@
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",
-      "c:\\Users\\yaniv\\עיצוב חזית הדבקה על זכוכיות גוניור\\rules",
+      "c:\\Users\\yaniv\\ליו\\rules",
       "C:\\Users\\yaniv\\.claude\\templates\\project",
-      "C:\\Users\\yaniv\\����� ���� ����� �� ������� ������"
+      "C:\\Users\\yaniv\\����� ���� ����� �� ������� ������",
+      "C:\\Users\\yaniv\\���\\.claude\\skills"
     ]
   },
   "skillOverrides": {

@@ -24,7 +24,12 @@
     "playwright": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@playwright/mcp@latest"]
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--output-dir", ".playwright-mcp",
+        "--save-storage-state", ".playwright-mcp/session.json"
+      ]
     }
   }
 }

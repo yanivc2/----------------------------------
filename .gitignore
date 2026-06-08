@@ -40,3 +40,6 @@ coverage/
 
 # Misc
 .cache/
+
+# Playwright MCP artifacts (screenshots, traces, session state)
+.playwright-mcp/

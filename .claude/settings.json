@@ -48,7 +48,8 @@
       "PowerShell(claude mcp add playwright npx @playwright/mcp@latest)",
       "mcp__playwright__browser_snapshot",
       "mcp__playwright__browser_navigate",
-      "mcp__claude_ai_Microsoft_Learn__microsoft_docs_search"
+      "mcp__claude_ai_Microsoft_Learn__microsoft_docs_search",
+      "Bash(git -C \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\" log --oneline -6)"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",

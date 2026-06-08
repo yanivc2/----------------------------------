@@ -49,7 +49,10 @@
       "mcp__playwright__browser_snapshot",
       "mcp__playwright__browser_navigate",
       "mcp__claude_ai_Microsoft_Learn__microsoft_docs_search",
-      "Bash(git -C \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\" log --oneline -6)"
+      "Bash(git -C \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\" log --oneline -6)",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\\\\.playwright-mcp\" | Out-Null; if \\(-not \\(Test-Path \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\\\\.playwright-mcp\\\\session.json\"\\)\\) { Set-Content -Path \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\\\\.playwright-mcp\\\\session.json\" -Value '{\"cookies\":[],\"origins\":[]}' -Encoding utf8 })",
+      "Bash(git -C \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\" status)",
+      "Bash(git -C \"c:\\\\Users\\\\yaniv\\\\עיצוב חזית הדבקה על זכוכיות גוניור\" diff)"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",

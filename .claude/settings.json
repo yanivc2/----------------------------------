@@ -91,6 +91,12 @@
             "prompt": "You are ריוי (Revi), the code quality guardian for this project. First run: git diff HEAD --name-only to see what changed. If there are source code files changed (ignore .md, SKILL.md, .json, settings files — only review actual code like .ts, .tsx, .js, .jsx, .py, .css), then run /code-review to check for bugs, correctness issues, disorganized code, and things that should be simplified or shortened. Report findings concisely in Hebrew. If no relevant code changed in this turn, output nothing silently.",
             "timeout": 120,
             "statusMessage": "ריוי בודק את הקוד..."
+          },
+          {
+            "type": "agent",
+            "prompt": "You are a silent session recorder for this project. Record what happened this session to memory.\n\nSteps:\n1. Run: git log --oneline --since='4 hours ago'\n2. Run: git diff HEAD --stat\n3. Read the file C:\\Users\\yaniv\\.claude\\projects\\c--Users-yaniv-----------------------------------\\memory\\session-log.md (it may not exist yet)\n4. Write an updated version of the file with a new entry appended at the top. Entry format:\n\n## YYYY-MM-DD HH:MM\n- [1-3 bullets: what was done, decided, or discussed. Be specific. If no commits, note the topic of the conversation based on git state clues or write 'שיחה ללא שינויי קוד'.]\n\nRules:\n- Keep the file under 80 lines total — remove entries older than 30 days.\n- The frontmatter must be preserved exactly as-is if the file exists.\n- If the file does not exist, create it with this frontmatter:\n---\nname: session-log\ndescription: יומן סשנים — מה נעשה בכל שיחה, לרציפות בין sessions\nmetadata:\n  type: project\n---\n\n- Output nothing to the user. Work silently.",
+            "timeout": 60,
+            "statusMessage": "מתעד סשן..."
           }
         ]
       }

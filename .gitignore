@@ -43,3 +43,6 @@ coverage/
 
 # Playwright MCP artifacts (screenshots, traces, session state)
 .playwright-mcp/
+
+# Auto-backup folder created by global PreToolUse hook
+deletions/

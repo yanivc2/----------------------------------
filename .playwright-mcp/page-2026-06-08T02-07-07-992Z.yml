@@ -1,0 +1,377 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "דילוג לתוכן הראשי" [ref=e2] [cursor=pointer]
+      - link "עזרה בנושא נגישות" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=iw
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e11]:
+        - link "מעבר לדף הבית של Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=iw&sa=X&ved=0ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQPAgI
+          - img [ref=e14]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - combobox "חיפוש" [ref=e25]: POS System G-250P Korea specifications DisplayPort specs POS System G-250P Korea specifications DisplayPort specs
+            - generic [ref=e26]:
+              - button "ניקוי" [ref=e28] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e33]:
+                - button "כלי הזנה" [ref=e34] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "חיפוש קולי" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+                - button "חיפוש לפי תמונה" [ref=e41] [cursor=pointer]:
+                  - img [ref=e42]
+          - button "חיפוש" [ref=e44] [cursor=pointer]:
+            - img [ref=e47]
+    - generic [ref=e49]:
+      - button "הגדרות" [ref=e51] [cursor=pointer]:
+        - img [ref=e54]
+      - generic [ref=e57]:
+        - button "אפליקציות Google" [ref=e59] [cursor=pointer]:
+          - img [ref=e60]
+        - link "כניסה" [ref=e64] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.com/search%3Fq%3DPOS%2BSystem%2BG-250P%2BKorea%2Bspecifications%2BDisplayPort%2Bspecs&ec=futura_srp_og_si_72236_p
+  - generic [ref=e66]:
+    - navigation [ref=e72]:
+      - generic [ref=e78]:
+        - list [ref=e79]:
+          - listitem [ref=e80]:
+            - link "מצב AI" [ref=e83] [cursor=pointer]:
+              - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&udm=50&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&aep=1&ntc=1&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ2J8OegQIERAD
+              - generic [ref=e86]: מצב AI
+          - listitem [ref=e87]:
+            - link "הכול" [disabled] [ref=e88]:
+              - generic [ref=e90]: הכול
+          - listitem [ref=e91]:
+            - link "תמונות" [ref=e92] [cursor=pointer]:
+              - /url: /search?sca_esv=2f6c3afacd4250e0&udm=2&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQtKgLegQIFxAB
+              - generic [ref=e94]: תמונות
+          - listitem [ref=e95]:
+            - link "שופינג" [ref=e96] [cursor=pointer]:
+              - /url: /search?sca_esv=2f6c3afacd4250e0&udm=28&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&ved=1t:220175&ictx=111
+              - generic [ref=e98]: שופינג
+          - listitem [ref=e99]:
+            - link "סרטונים" [ref=e100] [cursor=pointer]:
+              - /url: /search?sca_esv=2f6c3afacd4250e0&udm=7&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQtKgLegQIExAB
+              - generic [ref=e102]: סרטונים
+          - listitem [ref=e103]:
+            - link "סרטונים קצרים" [ref=e104] [cursor=pointer]:
+              - /url: /search?sca_esv=2f6c3afacd4250e0&udm=39&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQs6gLegQIFRAB
+              - generic [ref=e106]: סרטונים קצרים
+          - listitem [ref=e107]:
+            - link "חדשות" [ref=e108] [cursor=pointer]:
+              - /url: /search?sca_esv=2f6c3afacd4250e0&q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&tbm=nws&source=lnms&fbs=ADc_l-aM15MCH7ZUxeKGGZK29zNIlOnuvyj8_PIlbMocUbRRhr4qSPJPFPPzoZa7n1MOUVHqCOC6ULsiTfbGuH9JAksSVLLB4z9u2-574WTJpQ6K3albdHnd1BNy5tz6V_F07F2p3-Zg5_WeSYj4i8rmKoleRt2nNxyvaN17q_e-uqZ9QK7BljUIawLkL9Z-PvBNnB0W3fuG8OVaK44Z7hROkNTWeMgEXxjcOgJrWyWPcjUqC9ARHsw&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ0pQJegQIFBAB
+              - generic [ref=e110]: חדשות
+          - listitem [ref=e111]:
+            - button "מסננים נוספים" [ref=e112] [cursor=pointer]:
+              - generic "מסננים נוספים" [ref=e113]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]: עוד
+                  - img [ref=e117]
+        - button "כלים" [ref=e120] [cursor=pointer]:
+          - generic [ref=e122]:
+            - generic [ref=e123]: כלים
+            - img [ref=e125]
+    - heading "תוצאות חיפוש" [level=1] [ref=e127]
+    - generic [ref=e132]:
+      - generic [ref=e151]:
+        - heading "בתהליך חשיבה חיפוש ייקח עוד קצת זמן לחשוב" [level=2] [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e158]: בתהליך חשיבה
+            - generic [ref=e160]: חיפוש
+            - generic [ref=e170]: ייקח עוד קצת זמן לחשוב
+        - progressbar [ref=e172]
+      - main [ref=e214]:
+        - generic [ref=e218]:
+          - generic [ref=e221]:
+            - heading "Web results" [level=2] [ref=e222]
+            - generic [ref=e223]:
+              - generic [ref=e226]:
+                - link "250 POS SYSTEM - IMU imupos.com https://imupos.com › pos250" [ref=e228] [cursor=pointer]:
+                  - /url: https://imupos.com/en/hw/pos250/
+                  - heading "250 POS SYSTEM - IMU" [level=3] [ref=e229]
+                  - generic [ref=e234]:
+                    - generic [ref=e236]: imupos.com
+                    - generic [ref=e238]:
+                      - text: https://imupos.com
+                      - generic [ref=e239]: › pos250
+                - generic [ref=e240]:
+                  - generic [ref=e241]: ·
+                  - link "לדף המתורגם" [ref=e242] [cursor=pointer]:
+                    - /url: https://translate.google.com/translate?u=https://imupos.com/en/hw/pos250/&hl=iw&sl=en&tl=iw&client=search
+                - button "מידע על התוצאה הזו" [ref=e243] [cursor=pointer]:
+                  - img [ref=e246]
+              - generic [ref=e250]:
+                - text: "01."
+                - emphasis [ref=e251]: "Industry's first multi-monitor support: (HDMI, DVI, DisplayPort, VGA"
+                - text: ") · 02. Power all serial ports: (Powered Serial) · 03. Supports multiple forms of Serial ..."
+          - generic [ref=e255]:
+            - generic [ref=e258]:
+              - link "POS SYSTEM 250 polcom.pl https://www.polcom.pl › file › IMU_250-POS-S..." [ref=e260] [cursor=pointer]:
+                - /url: https://www.polcom.pl/pl/p/file/97c2a7663da5abb0d1e5ab2f65ce604b/IMU_250-POS-SYSTEM_karta-katalogowa.pdf
+                - heading "POS SYSTEM 250" [level=3] [ref=e261]
+                - generic [ref=e266]:
+                  - generic [ref=e268]: polcom.pl
+                  - generic [ref=e270]:
+                    - text: https://www.polcom.pl
+                    - generic [ref=e271]: › file › IMU_250-POS-S...
+              - generic [ref=e272]:
+                - generic:
+                  - generic: PDF
+              - button "מידע על התוצאה הזו" [ref=e273] [cursor=pointer]:
+                - img [ref=e276]
+            - generic [ref=e280]:
+              - text: One-touch installation of 2nd
+              - emphasis [ref=e281]: display
+              - text: . • Easy and quick installation with automatic coupling structure (Takes 2 minutes). • One integrated Cable Structure.
+            - generic [ref=e283]:
+              - text: "חסר:"
+              - generic [ref=e284]: G-
+              - text: "‏| התוצאות חייבות לכלול:"
+              - link "G-" [ref=e285] [cursor=pointer]:
+                - /url: /search?sca_esv=2f6c3afacd4250e0&q=POS+System+%22G-%22+250P+Korea+specifications+DisplayPort+specs&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ5t4CegQIHBAB
+          - generic [ref=e289]:
+            - generic [ref=e292]:
+              - link "P2C 250 Series ics.gr https://www.ics.gr › product › get_file" [ref=e294] [cursor=pointer]:
+                - /url: https://www.ics.gr/index.php?route=product/product/get_file&file=P2C_250_Series_ics.pdf
+                - heading "P2C 250 Series" [level=3] [ref=e295]
+                - generic [ref=e297]:
+                  - img [ref=e301]
+                  - generic [ref=e303]:
+                    - generic [ref=e305]: ics.gr
+                    - generic [ref=e307]:
+                      - text: https://www.ics.gr
+                      - generic [ref=e308]: › product › get_file
+              - generic [ref=e309]:
+                - generic:
+                  - generic: PDF
+              - button "מידע על התוצאה הזו" [ref=e310] [cursor=pointer]:
+                - img [ref=e313]
+            - generic [ref=e315]:
+              - generic [ref=e317]:
+                - text: LAN. 1 x RJ45 (Base-T 10/100/1000 Ethernet). Speaker(optional). 1W x 1. 3W x 1. Peripheral Options. Secondary
+                - emphasis [ref=e318]: Display
+                - text: ". • LCD Type: 9.7\" or 15\" LCD (USB Port x 1)."
+              - generic [ref=e319]: 4 דפים
+          - generic [ref=e323]:
+            - generic [ref=e326]:
+              - link "intro products business EuroCIS Messe https://www.eurocis.com › event-eurocis2025 › E..." [ref=e328] [cursor=pointer]:
+                - /url: https://www.eurocis.com/vis-content/event-eurocis2025/exh-eurocis2025.3005783/EuroCIS-2025-POSBANK-Co.-Ltd.-Paper-eurocis2025.3005783-G4Gr3NlOSvSwI1XlL25hlQ.pdf
+                - heading "intro products business" [level=3] [ref=e329]
+                - generic [ref=e334]:
+                  - generic [ref=e336]: EuroCIS Messe
+                  - generic [ref=e338]:
+                    - text: https://www.eurocis.com
+                    - generic [ref=e339]: › event-eurocis2025 › E...
+              - generic [ref=e340]:
+                - generic:
+                  - generic: PDF
+              - button "מידע על התוצאה הזו" [ref=e341] [cursor=pointer]:
+                - img [ref=e344]
+            - generic [ref=e346]:
+              - generic [ref=e348]:
+                - text: With advanced engineering and unmatched experience, we manufacture and offer a wide range of
+                - emphasis [ref=e349]: POS
+                - text: terminals, Kiosks, Touchscreen monitors,
+                - emphasis [ref=e350]: POS
+                - text: printers, and ...
+              - generic [ref=e351]: 39 דפים
+          - generic [ref=e355]:
+            - generic [ref=e358]:
+              - link "P2C 250 Series - Upsolution-POS Software-Restaurant system upsolution.co.th https://www.upsolution.co.th › pos-syste..." [ref=e360] [cursor=pointer]:
+                - /url: https://www.upsolution.co.th/pos-system-1?srsltid=AfmBOoqbbt7218IUjG9GhqHuWGkK-gQeT8LrjDYO5lNSPlsd1ebJ5Rli
+                - heading "P2C 250 Series - Upsolution-POS Software-Restaurant system" [level=3] [ref=e361]
+                - generic [ref=e366]:
+                  - generic [ref=e368]: upsolution.co.th
+                  - generic [ref=e370]:
+                    - text: https://www.upsolution.co.th
+                    - generic [ref=e371]: › pos-syste...
+              - generic [ref=e372]:
+                - generic [ref=e373]: ·
+                - link "לדף המתורגם" [ref=e374] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.upsolution.co.th/pos-system-1&hl=iw&sl=en&tl=iw&client=search
+              - button "מידע על התוצאה הזו" [ref=e375] [cursor=pointer]:
+                - img [ref=e378]
+            - generic [ref=e382]:
+              - text: P2C G250 equipped with J4125 CPU provides basic 4GB Base Memory and 64bite Windows OS provides the fastest and best performance in
+              - emphasis [ref=e383]: Korea
+              - text: . pos250_img1.
+            - generic [ref=e385]:
+              - text: "חסר:"
+              - generic [ref=e386]: specifications
+              - text: ‏
+              - generic [ref=e387]: specs
+          - generic [ref=e391]:
+            - generic [ref=e394]:
+              - link "VESA DisplayPort (DP) Standard, v2.0 -- 6/26 /19 Power's Wiki https://file-host.wiki-power.com › 设计规范 › VE..." [ref=e396] [cursor=pointer]:
+                - /url: https://file-host.wiki-power.com/circuit-design/%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/%E5%90%84%E7%B1%BB%E9%80%9A%E4%BF%A1%E4%B8%8E%E6%8E%A5%E5%8F%A3%E5%8D%8F%E8%AE%AE%E6%A0%87%E5%87%86/VESA%20DisplayPort%20(DP)%20Standard%20version%202.0.pdf
+                - heading "VESA DisplayPort (DP) Standard, v2.0 -- 6/26 /19" [level=3] [ref=e397]
+                - generic [ref=e399]:
+                  - img [ref=e403]
+                  - generic [ref=e405]:
+                    - generic [ref=e407]: Power's Wiki
+                    - generic [ref=e409]:
+                      - text: https://file-host.wiki-power.com
+                      - generic [ref=e410]: › 设计规范 › VE...
+              - generic [ref=e411]:
+                - generic:
+                  - generic: PDF
+              - button "מידע על התוצאה הזו" [ref=e412] [cursor=pointer]:
+                - img [ref=e415]
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - generic [ref=e419]: 26 ביוני 2019 —
+                - generic [ref=e420]:
+                  - text: The purpose of this document is to define a flexible
+                  - emphasis [ref=e421]: system
+                  - text: and apparatus capable of transporting video, audio and other data between a Source ...
+              - generic [ref=e422]: 1,143 דפים
+          - generic [ref=e426]:
+            - generic [ref=e429]:
+              - link "SOLUTION GUIDE suncom.tech https://suncom.tech › 2020/04 › posbank_suncom" [ref=e431] [cursor=pointer]:
+                - /url: https://suncom.tech/mt-content/uploads/2020/04/posbank_suncom.pdf
+                - heading "SOLUTION GUIDE" [level=3] [ref=e432]
+                - generic [ref=e437]:
+                  - generic [ref=e439]: suncom.tech
+                  - generic [ref=e441]:
+                    - text: https://suncom.tech
+                    - generic [ref=e442]: › 2020/04 › posbank_suncom
+              - generic [ref=e443]:
+                - generic:
+                  - generic: PDF
+              - button "מידע על התוצאה הזו" [ref=e444] [cursor=pointer]:
+                - img [ref=e447]
+            - generic [ref=e449]:
+              - generic [ref=e451]:
+                - text: The APEXA®
+                - emphasis [ref=e452]: G
+                - text: is a compact
+                - emphasis [ref=e453]: POS
+                - text: terminal with modern and contemporary styling. It features powerful performance, superior touch
+                - emphasis [ref=e454]: display
+                - text: ", multiple I/O interfaces ..."
+              - generic [ref=e455]: 35 דפים
+          - generic [ref=e459]:
+            - generic [ref=e462]:
+              - link "DisplayPort (DP) 协议标准 V1.4 | PDF Scribd https://www.scribd.com › document › Dis..." [ref=e464] [cursor=pointer]:
+                - /url: https://www.scribd.com/document/707261726/DisplayPort-DP-%E5%8D%8F%E8%AE%AE%E6%A0%87%E5%87%86-V1-4
+                - heading "DisplayPort (DP) 协议标准 V1.4 | PDF" [level=3] [ref=e465]
+                - generic [ref=e470]:
+                  - generic [ref=e472]: Scribd
+                  - generic [ref=e474]:
+                    - text: https://www.scribd.com
+                    - generic [ref=e475]: › document › Dis...
+              - generic [ref=e476]:
+                - generic [ref=e477]: ·
+                - link "לדף המתורגם" [ref=e478] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.scribd.com/document/707261726/DisplayPort-DP-%25E5%258D%258F%25E8%25AE%25AE%25E6%25A0%2587%25E5%2587%2586-V1-4&hl=iw&sl=en&tl=iw&client=search
+              - button "מידע על התוצאה הזו" [ref=e479] [cursor=pointer]:
+                - img [ref=e482]
+            - generic [ref=e486]:
+              - text: The document defines the
+              - emphasis [ref=e487]: DisplayPort
+              - text: (DP) standard
+              - emphasis [ref=e488]: version
+              - text: 1.4, which specifies a digital communications interface for transmitting video, audio, and other data
+          - generic [ref=e492]:
+            - generic [ref=e495]:
+              - link "200 POS SYSTEM - IMU imupos.com https://imupos.com › pos200" [ref=e497] [cursor=pointer]:
+                - /url: https://imupos.com/en/hw/pos200/
+                - heading "200 POS SYSTEM - IMU" [level=3] [ref=e498]
+                - generic [ref=e503]:
+                  - generic [ref=e505]: imupos.com
+                  - generic [ref=e507]:
+                    - text: https://imupos.com
+                    - generic [ref=e508]: › pos200
+              - generic [ref=e509]:
+                - generic [ref=e510]: ·
+                - link "לדף המתורגם" [ref=e511] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://imupos.com/en/hw/pos200/&hl=iw&sl=en&tl=iw&client=search
+              - button "מידע על התוצאה הזו" [ref=e512] [cursor=pointer]:
+                - img [ref=e515]
+            - generic [ref=e519]:
+              - text: "01. Industry's first multi-monitor support: (HDMI, DVI,"
+              - emphasis [ref=e520]: DisplayPort
+              - text: ", VGA) · 02. Power all serial ports: (Powered Serial) · 03. Supports multiple forms of Serial ..."
+            - generic [ref=e522]:
+              - text: "חסר:"
+              - generic [ref=e523]: 250P
+              - text: "‏| התוצאות חייבות לכלול:"
+              - link "250P" [ref=e524] [cursor=pointer]:
+                - /url: /search?sca_esv=2f6c3afacd4250e0&q=POS+System+G-+%22250P%22+Korea+specifications+DisplayPort+specs&sa=X&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ5t4CegQISxAB
+          - generic [ref=e528]:
+            - generic [ref=e531]:
+              - link "D4 Pro iMin Technology https://www.imin.com › product › d4-pro" [ref=e533] [cursor=pointer]:
+                - /url: https://www.imin.com/product/d4-pro/
+                - heading "D4 Pro" [level=3] [ref=e534]
+                - generic [ref=e539]:
+                  - generic [ref=e541]: iMin Technology
+                  - generic [ref=e543]:
+                    - text: https://www.imin.com
+                    - generic [ref=e544]: › product › d4-pro
+              - generic [ref=e545]:
+                - generic [ref=e546]: ·
+                - link "לדף המתורגם" [ref=e547] [cursor=pointer]:
+                  - /url: https://translate.google.com/translate?u=https://www.imin.com/product/d4-pro/&hl=iw&sl=en&tl=iw&client=search
+              - button "מידע על התוצאה הזו" [ref=e548] [cursor=pointer]:
+                - img [ref=e551]
+            - generic [ref=e554]: Processor. Octa-Core (Dual-Core Arm Cortex-A78 2.2GHz, Hexa-Core Arm Cortex-A55 2.0GHz) ; Touch Panel. 10 Point Capacitive Touch Panel ; Memory. 4GB RAM + 64GB ...
+        - navigation [ref=e557]:
+          - heading "ניווט בדפים" [level=1] [ref=e558]
+          - text: "1"
+          - link "Page 2" [ref=e561] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=10&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAE
+            - text: "2"
+          - link "Page 3" [ref=e563] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=20&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAG
+            - text: "3"
+          - link "Page 4" [ref=e565] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=30&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAI
+            - text: "4"
+          - link "Page 5" [ref=e567] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=40&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAK
+            - text: "5"
+          - link "Page 6" [ref=e569] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=50&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAM
+            - text: "6"
+          - link "Page 7" [ref=e571] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=60&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAO
+            - text: "7"
+          - link "Page 8" [ref=e573] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=70&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAQ
+            - text: "8"
+          - link "Page 9" [ref=e575] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=80&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAS
+            - text: "9"
+          - link "Page 10" [ref=e577] [cursor=pointer]:
+            - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=90&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8tMDegQINxAU
+            - text: "10"
+          - heading "הבא" [level=2] [ref=e579]:
+            - link "הבא" [ref=e580] [cursor=pointer]:
+              - /url: /search?q=POS+System+G-250P+Korea+specifications+DisplayPort+specs&sca_esv=2f6c3afacd4250e0&ei=yyMmaq7gLueN9u8P1_CB4Ac&start=10&sa=N&sstk=AU9db-C3Aact6jNTtHwiTbfKJnnR7fb702cb1vXDAakRBG-fKnBwb-i5HbFYx9cvXbSaYe9Y6u1KLlLXchJ5HXCkuEMtLyJNmcXjuQ&ved=2ahUKEwju8c-9x_aUAxXnhv0HHVd4AHwQ8NMDegQINxAW
+              - generic [ref=e582]: הבא
+        - navigation
+    - contentinfo [ref=e583]:
+      - heading "קישורים בכותרת תחתונה" [level=1] [ref=e584]
+      - generic [ref=e588]:
+        - generic [ref=e590]:
+          - text: ישראל
+          - generic [ref=e592]:
+            - button "רמת השרון - על סמך הפעילות הקודמת שלך" [ref=e594] [cursor=pointer]:
+              - generic [ref=e595]: רמת השרון
+              - generic [ref=e597]:
+                - text: "-"
+                - generic [ref=e598]: על סמך הפעילות הקודמת שלך
+            - text: "-"
+            - button "לעדכון המיקום" [ref=e600] [cursor=pointer]: לעדכון המיקום
+        - generic [ref=e603]:
+          - link "עזרה" [ref=e604] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=iw&fg=1
+          - link "שליחת משוב" [ref=e605] [cursor=pointer]:
+            - /url: "#"
+          - link "פרטיות" [ref=e606] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=iw&fg=1
+          - link "תנאים" [ref=e607] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=iw&fg=1

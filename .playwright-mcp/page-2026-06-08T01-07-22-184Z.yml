@@ -1,0 +1,635 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IL
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e11]:
+        - link "Go to Google Home" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQPAgI
+          - img [ref=e14]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - combobox "Search" [ref=e25]: DisplayPort splitter HDMI encoder loop out POS screen capture Windows 10 DisplayPort splitter HDMI encoder loop out POS screen capture Windows 10
+            - generic [ref=e26]:
+              - button "Clear" [ref=e28] [cursor=pointer]:
+                - img [ref=e30]
+              - generic [ref=e33]:
+                - button "Search by voice" [ref=e34] [cursor=pointer]:
+                  - img [ref=e35]
+                - button "Search by image" [ref=e37] [cursor=pointer]:
+                  - img [ref=e38]
+          - button "Search" [ref=e40] [cursor=pointer]:
+            - img [ref=e43]
+    - generic [ref=e45]:
+      - button "Settings" [ref=e47] [cursor=pointer]:
+        - img [ref=e50]
+      - generic [ref=e53]:
+        - button "Google apps" [ref=e55] [cursor=pointer]:
+          - img [ref=e56]
+        - link "Sign in" [ref=e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DDisplayPort%2Bsplitter%2BHDMI%2Bencoder%2Bloop%2Bout%2BPOS%2Bscreen%2Bcapture%2BWindows%2B10%26hl%3Den&ec=futura_srp_og_si_72236_p
+  - generic [ref=e62]:
+    - navigation [ref=e68]:
+      - generic [ref=e74]:
+        - list [ref=e75]:
+          - listitem [ref=e76]:
+            - link "AI Mode" [ref=e79] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&aep=1&ntc=1&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ2J8OegQIERAD
+              - generic [ref=e82]: AI Mode
+          - listitem [ref=e83]:
+            - link "All" [disabled] [ref=e84]:
+              - generic [ref=e86]: All
+          - listitem [ref=e87]:
+            - link "Shopping" [ref=e88] [cursor=pointer]:
+              - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&ved=1t:220175&ictx=111
+              - generic [ref=e90]: Shopping
+          - listitem [ref=e91]:
+            - link "Images" [ref=e92] [cursor=pointer]:
+              - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQtKgLegQIFhAB
+              - generic [ref=e94]: Images
+          - listitem [ref=e95]:
+            - link "Videos" [ref=e96] [cursor=pointer]:
+              - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQtKgLegQIFRAB
+              - generic [ref=e98]: Videos
+          - listitem [ref=e99]:
+            - link "Short videos" [ref=e100] [cursor=pointer]:
+              - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQs6gLegQIExAB
+              - generic [ref=e102]: Short videos
+          - listitem [ref=e103]:
+            - link "Forums" [ref=e104] [cursor=pointer]:
+              - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwmdSduEdP1lcK-3UDyorIbYkF4w9ksckliRqNmnEiwdZq9hi6Uf0JMwEobPco1ddsraLMoix6VFcBVLI33WJ4qzChHA80y2JbwB7Ntoj9wD-E0QQ0ZdtEYmEVOXRtobBmtczcO1eywFdgs0HIQoWFlRkLvAJg&q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQs6gLegQIFBAB
+              - generic [ref=e106]: Forums
+          - listitem [ref=e107]:
+            - button "More filters" [ref=e108] [cursor=pointer]:
+              - generic "More filters" [ref=e109]:
+                - generic [ref=e110]:
+                  - generic [ref=e111]: More
+                  - img [ref=e113]
+        - button "Tools" [ref=e116] [cursor=pointer]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: Tools
+            - img [ref=e121]
+    - heading "Search Results" [level=1] [ref=e123]
+    - generic [ref=e128]:
+      - generic [ref=e147]:
+        - generic [ref=e149]:
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - img [ref=e153]
+              - heading "AI Overview" [level=2] [ref=e155]
+            - button "About this result" [ref=e159]:
+              - img [ref=e161]
+          - generic [ref=e181]:
+            - generic [ref=e184]:
+              - generic [ref=e185]:
+                - text: To capture your Point of Sale (POS) screen for external encoding and recording in a Windows 10 setup, connect your POS terminal's video output to an HDMI video capture card with an HDMI loop-out. The loop-out sends the live, uncompressed video to your main POS monitor, while the capture function feeds a stream to your Windows 10 PC.
+                - generic [ref=e187]:
+                  - link "www.amazon.com (+2) – View related links" [ref=e188] [cursor=pointer]:
+                    - /url: https://www.amazon.com/ORIVISION-HDMI-Acquisition-Broadcasting-Camcorder/dp/B08BZB3Y56
+                  - button "www.amazon.com (+2) – View related links" [ref=e189] [cursor=pointer]:
+                    - generic [ref=e191]:
+                      - generic [ref=e192]: www.amazon.com
+                      - generic [ref=e193]: "+2"
+              - generic [ref=e194]:
+                - text: If your POS terminal has a
+                - strong [ref=e195]: DisplayPort
+                - text: instead of an HDMI output, use a
+                - strong [ref=e196]: DisplayPort to HDMI Splitter
+                - text: (or an MST hub) at the terminal, routing one HDMI cable to the POS monitor and the other to the capture card.
+                - generic [ref=e198]:
+                  - link [ref=e199] [cursor=pointer]:
+                    - /url: https://www.amazon.com/UPTab-DisplayPort-Converter-Multi-Stream-Transport/dp/B09JL3QT2S
+                  - button [ref=e200] [cursor=pointer]:
+                    - generic [ref=e202]:
+                      - generic [ref=e203]: www.amazon.com
+                      - generic [ref=e204]: "+2"
+              - heading [level=3] [ref=e206]: Required Hardware & Wiring
+              - list [ref=e208]:
+                - listitem [ref=e209]:
+                  - generic [ref=e210]:
+                    - strong [ref=e211]: "Signal Splitter (if needed):"
+                    - text: If the POS terminal has a DisplayPort, use a
+                    - generic [ref=e212]: DisplayPort to HDMI Splitter
+                    - text: to duplicate or extend the video signal.
+                  - generic [ref=e214]:
+                    - link [ref=e215] [cursor=pointer]:
+                      - /url: https://www.amazon.com/UPTab-DisplayPort-Converter-Multi-Stream-Transport/dp/B09JL3QT2S
+                    - button [ref=e216] [cursor=pointer]:
+                      - generic [ref=e218]:
+                        - generic [ref=e219]: www.amazon.com
+                        - generic [ref=e220]: "+3"
+                - listitem [ref=e221]:
+                  - generic [ref=e222]:
+                    - strong [ref=e223]: "Video Capture Card (with Loop Out):"
+                    - text: Purchase an HDMI capture device equipped with an HDMI loop-out. Connect an HDMI cable from the POS output (or splitter output) to the
+                    - strong [ref=e224]: Input
+                    - text: of the capture card.
+                  - generic [ref=e226]:
+                    - link [ref=e227] [cursor=pointer]:
+                      - /url: https://www.amazon.com/ORIVISION-HDMI-Acquisition-Broadcasting-Camcorder/dp/B08BZB3Y56
+                    - button [ref=e228] [cursor=pointer]:
+                      - generic [ref=e230]:
+                        - generic [ref=e231]: www.amazon.com
+                        - generic [ref=e232]: "+2"
+                - listitem [ref=e233]:
+                  - generic [ref=e234]:
+                    - strong [ref=e235]: "Loop Out to POS Screen:"
+                    - text: Run a second HDMI cable from the
+                    - strong [ref=e236]: Output/Loop Out
+                    - text: of the capture card to the POS monitor. This ensures the cashier faces zero delay or latency.
+                  - generic [ref=e238]:
+                    - link [ref=e239] [cursor=pointer]:
+                      - /url: https://www.youtube.com/shorts/wYNmJujS0Ls
+                    - button [ref=e240] [cursor=pointer]:
+                      - generic [ref=e242]:
+                        - generic [ref=e243]: YouTube
+                        - generic [ref=e244]: ·FornaTRON
+                        - generic [ref=e245]: "+1"
+                - listitem [ref=e246]:
+                  - generic [ref=e247]:
+                    - strong [ref=e248]: "Connection to the Recording PC:"
+                    - text: Connect a USB 3.0 or USB-C cable from the capture card to your Windows 10 machine.
+                  - generic [ref=e250]:
+                    - link [ref=e251] [cursor=pointer]:
+                      - /url: https://www.youtube.com/shorts/wYNmJujS0Ls
+                    - button [ref=e252] [cursor=pointer]:
+                      - generic [ref=e254]:
+                        - generic [ref=e255]: YouTube
+                        - generic [ref=e256]: ·FornaTRON
+                        - generic [ref=e257]: "+3"
+              - heading [level=3] [ref=e259]: Software Setup on Windows 10
+              - list [ref=e261]:
+                - listitem [ref=e262]:
+                  - generic [ref=e263]:
+                    - strong [ref=e264]: "Capture Software:"
+                    - text: Download and install a capture and streaming software like
+                    - generic [ref=e265]: OBS Studio
+                    - text: .
+                - listitem [ref=e266]:
+                  - generic [ref=e267]:
+                    - strong [ref=e268]: "Add Source:"
+                    - text: Open OBS Studio, go to the
+                    - strong [ref=e269]: Sources
+                    - text: panel, and click the
+                    - strong [ref=e270]: +
+                    - text: button. Select
+                    - strong [ref=e271]: Video Capture Device
+                    - text: .
+                - listitem [ref=e272]:
+                  - generic [ref=e273]:
+                    - strong [ref=e274]: "Select Device:"
+                    - text: Name the source and choose your capture card (usually listed as
+                    - emphasis [ref=e275]: USB Video
+                    - text: or
+                    - emphasis [ref=e276]: HDMI Capture
+                    - text: ) from the device dropdown.
+                - listitem [ref=e277]:
+                  - generic [ref=e278]:
+                    - strong [ref=e279]: "Encoding/Streaming:"
+                    - text: In the OBS
+                    - strong [ref=e280]: Settings > Output
+                    - text: menu, you can set your preferred streaming protocol (such as RTMP/RTSP) or configure the software to act as an encoder/streamer directly to an external VMS or NVR network.
+                  - generic [ref=e282]:
+                    - link [ref=e283] [cursor=pointer]:
+                      - /url: https://www.exvist.com/products/1080p-poe-hdmi-encoder-loopout-usb-recording/4736458000002006282
+                    - button [ref=e284] [cursor=pointer]:
+                      - generic [ref=e286]:
+                        - generic [ref=e287]: www.exvist.com
+                        - generic [ref=e288]: "+4"
+              - generic [ref=e291]:
+                - generic [ref=e292]: "For tips on setting up your capture card and configuring the HDMI loop out correctly:"
+                - generic [ref=e294]:
+                  - link [ref=e296] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=nbTciwj_z4Q
+                    - generic [ref=e297]:
+                      - generic [ref=e298]: How To Set Up A Video Capture Card With Loop-Out HDMI
+                      - generic [ref=e305]:
+                        - generic [ref=e306]: SplatDroid
+                        - generic [ref=e307]: YouTube · 19 Aug 2021
+                  - button [ref=e311] [cursor=pointer]:
+                    - generic [ref=e312]:
+                      - img [ref=e313]
+                      - generic [ref=e315]:
+                        - img [ref=e316]
+                        - generic [ref=e318]: 57s
+                      - img [ref=e323]
+              - generic [ref=e326]: "If you want me to help refine your streaming setup, please tell me:"
+              - list [ref=e328]:
+                - listitem [ref=e329]:
+                  - generic [ref=e330]:
+                    - text: What is the
+                    - strong [ref=e331]: brand/model of your POS terminal
+                    - text: (or what ports does it have)?
+                - listitem [ref=e332]:
+                  - generic [ref=e333]:
+                    - text: Do you need the screen recording for
+                    - strong [ref=e334]: local storage
+                    - text: or
+                    - strong [ref=e335]: live streaming to a network
+                    - text: "?"
+                - listitem [ref=e336]:
+                  - generic [ref=e337]:
+                    - text: Are you capturing
+                    - strong [ref=e338]: audio
+                    - text: as well?
+            - generic [ref=e343]:
+              - generic [ref=e345]:
+                - button "7 sites" [ref=e346] [cursor=pointer]:
+                  - generic [ref=e355]: 7 sites
+                - button "About this result" [ref=e360] [cursor=pointer]:
+                  - img [ref=e362]
+              - list [ref=e365]:
+                - listitem [ref=e366]:
+                  - generic [ref=e367]:
+                    - link "uptab DisplayPort to Dual HDMI Adapter 4K 60Hz Multi Monitor .... Opens in new tab." [ref=e368] [cursor=pointer]:
+                      - /url: https://www.amazon.com/UPTab-DisplayPort-Converter-Multi-Stream-Transport/dp/B09JL3QT2S
+                    - generic [ref=e369]:
+                      - generic [ref=e371]:
+                        - generic [ref=e372]: uptab DisplayPort to Dual HDMI Adapter 4K 60Hz Multi Monitor ...
+                        - generic [ref=e373]: Unlock the full potential of your workstation or entertainment setup with the UPTab DisplayPort to Dual HDMI Splitter 1 in 2 Out E...
+                      - generic [ref=e375]:
+                        - generic [ref=e380]: www.amazon.com
+                        - button "About this result" [ref=e384] [cursor=pointer]:
+                          - img [ref=e386]
+                - listitem [ref=e390]:
+                  - generic [ref=e391]:
+                    - link "HDMI Video Capture with a HDMI Splitter. Opens in new tab." [ref=e392] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=SdWtaQEaijo&t=5
+                    - generic [ref=e393]:
+                      - generic [ref=e394]:
+                        - generic [ref=e395]:
+                          - generic [ref=e396]: HDMI Video Capture with a HDMI Splitter
+                          - generic [ref=e397]: 8 Mar 2023 — today's video I'll be showing you how to uh record from a video game console. and have it displayed to your um HDMI video capture ...
+                        - button [ref=e401] [cursor=pointer]:
+                          - generic [ref=e403]:
+                            - img [ref=e404]
+                            - generic [ref=e406]: 19m
+                          - img [ref=e411]
+                      - generic [ref=e413]:
+                        - generic [ref=e420]:
+                          - generic [ref=e421]: YouTube
+                          - generic [ref=e422]: ·
+                          - generic [ref=e423]: Ace1000ks1975
+                        - button [ref=e427] [cursor=pointer]:
+                          - img [ref=e429]
+                - listitem [ref=e433]:
+                  - generic [ref=e434]:
+                    - link [ref=e435] [cursor=pointer]:
+                      - /url: https://www.amazon.com/ORIVISION-HDMI-Acquisition-Broadcasting-Camcorder/dp/B08BZB3Y56
+                    - generic [ref=e436]:
+                      - generic [ref=e438]:
+                        - generic [ref=e439]: Video Capture Card 4K HDMI Device with Loop Out, Full HD ...
+                        - generic [ref=e440]: Need help in finding the right tv tuner card? Check Product Finder. Product description. HDMI Video Capture with Loop out. Max Inp...
+                      - generic [ref=e442]:
+                        - generic [ref=e447]: www.amazon.com
+                        - button [ref=e451] [cursor=pointer]:
+                          - img [ref=e453]
+              - button [ref=e457] [cursor=pointer]:
+                - generic [ref=e458]: Show all
+        - button "Show more AI Overview" [ref=e462]:
+          - generic [ref=e464] [cursor=pointer]:
+            - generic [ref=e465]: Show more
+            - img [ref=e467]
+      - main [ref=e470]:
+        - generic [ref=e474]:
+          - generic [ref=e477]:
+            - heading "Web results" [level=2] [ref=e478]
+            - generic [ref=e479]:
+              - generic [ref=e482]:
+                - link "Displayport To Hdmi Splitter Amazon.com https://www.amazon.com › displayport-hdmi-splitter" [ref=e484] [cursor=pointer]:
+                  - /url: https://www.amazon.com/displayport-hdmi-splitter/s?k=displayport+to+hdmi+splitter
+                  - heading "Displayport To Hdmi Splitter" [level=3] [ref=e485]
+                  - generic [ref=e490]:
+                    - generic [ref=e492]: Amazon.com
+                    - generic [ref=e494]: https://www.amazon.com › displayport-hdmi-splitter
+                - button "About this result" [ref=e495] [cursor=pointer]:
+                  - img [ref=e498]
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - emphasis [ref=e503]: DisplayPort to Dual HDMI Adapter 1 in 2 Out
+                  - text: ", 4K60Hz Display Port DP 1.4 to 2 HDMI Splitter for PC Graphics Card Monitor Supports Windows Extended Mode, [MacOS ..."
+                - link "Read more" [ref=e504] [cursor=pointer]:
+                  - /url: https://www.amazon.com/displayport-hdmi-splitter/s?k=displayport+to+hdmi+splitter#:~:text=DisplayPort%20to%20Dual%20HDMI%20Adapter,Mirror%20Mode%5D%2C%20No%20DP%20Cables
+              - generic [ref=e507]: US$16.18 delivery
+              - generic [ref=e509]: "Missing: encoder ‎POS ‎capture"
+          - generic [ref=e514]:
+            - heading "People also ask" [level=2] [ref=e516]
+            - generic [ref=e517]:
+              - button "Can I use a DisplayPort splitter?" [ref=e523] [cursor=pointer]:
+                - generic [ref=e525]: Can I use a DisplayPort splitter?
+                - img [ref=e528]
+              - generic [ref=e534]:
+                - button "How to extend display on Windows 10 with HDMI splitter?" [ref=e537] [cursor=pointer]:
+                  - generic [ref=e539]: How to extend display on Windows 10 with HDMI splitter?
+                  - img [ref=e542]
+                - text: "\"... ...\" \"... ...\""
+              - generic [ref=e548]:
+                - button "How do I reset my HDMI splitter?" [ref=e551] [cursor=pointer]:
+                  - generic [ref=e553]: How do I reset my HDMI splitter?
+                  - img [ref=e556]
+                - text: "\"... ...\" \"... ...\""
+              - button "Why does my HDMI splitter only work with one monitor?" [ref=e565] [cursor=pointer]:
+                - generic [ref=e567]: Why does my HDMI splitter only work with one monitor?
+                - img [ref=e570]
+          - generic [ref=e575]:
+            - heading "Web results" [level=2] [ref=e576]
+            - generic [ref=e577]:
+              - generic [ref=e580]:
+                - link "Help, single display port to dual HDMI splitter, only ... Reddit · r/PcBuild 10+ comments · 2 years ago" [ref=e582] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/PcBuild/comments/1bkb8vn/help_single_display_port_to_dual_hdmi_splitter/
+                  - heading "Help, single display port to dual HDMI splitter, only ..." [level=3] [ref=e583]
+                  - generic [ref=e588]:
+                    - generic [ref=e590]: Reddit · r/PcBuild
+                    - generic [ref=e592]: 10+ comments · 2 years ago
+                - button "About this result" [ref=e593] [cursor=pointer]:
+                  - img [ref=e596]
+              - generic [ref=e599]:
+                - generic [ref=e600]:
+                  - text: I got two new monitors for work, my PC only has 1
+                  - emphasis [ref=e601]: display port out
+                  - text: . I figured I would just buy a 1DP to 2HDMI adapter, and plug in both monitors that way.
+                - link "Read more" [ref=e602] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/PcBuild/comments/1bkb8vn/help_single_display_port_to_dual_hdmi_splitter/#:~:text=I%20got%20two%20new%20monitors,in%20both%20monitors%20that%20way.
+          - generic [ref=e609]:
+            - generic [ref=e612]:
+              - link "DisplayPort 1x2 Splitter for Dual 4K Monitors 4K@144Hz MST ... YouTube · OREI 1.5K+ views · 8 months ago" [ref=e614] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=M8w6ZxK1-Xs
+                - heading "DisplayPort 1x2 Splitter for Dual 4K Monitors 4K@144Hz MST ..." [level=3] [ref=e615]
+                - generic [ref=e620]:
+                  - generic [ref=e622]: YouTube · OREI
+                  - generic [ref=e624]: 1.5K+ views · 8 months ago
+              - button "About this result" [ref=e625] [cursor=pointer]:
+                - img [ref=e628]
+            - generic [ref=e630]:
+              - button "DisplayPort 1x2 Splitter for Dual 4K Monitors 4K@144Hz MST ... by OREI on YouTube. Play on Google. 6:51" [ref=e631] [cursor=pointer]:
+                - generic [ref=e633]:
+                  - img [ref=e639]
+                  - generic [ref=e642]:
+                    - generic [ref=e643]: 6:51
+                    - img [ref=e646]
+              - generic [ref=e649]: DisplayPort 1x2 Splitter Adapter – Dual Monitor Support with Power Adapter Easily connect one DisplayPort source to two DisplayPort monitors ...
+          - generic [ref=e653]:
+            - generic [ref=e656]:
+              - link "USB Type-C™ Splitter (DP Alt Mode) > 2 x HDMI out 4K 30 ... Delock https://www.delock.com › produkt › pdf" [ref=e658] [cursor=pointer]:
+                - /url: https://www.delock.com/produkt/87719/pdf.html?sprache=en
+                - heading "USB Type-C™ Splitter (DP Alt Mode) > 2 x HDMI out 4K 30 ..." [level=3] [ref=e659]
+                - generic [ref=e664]:
+                  - generic [ref=e666]: Delock
+                  - generic [ref=e668]: https://www.delock.com › produkt › pdf
+              - generic [ref=e669]:
+                - generic:
+                  - generic: PDF
+              - button "About this result" [ref=e670] [cursor=pointer]:
+                - img [ref=e673]
+            - generic [ref=e676]:
+              - generic [ref=e677]:
+                - text: This
+                - emphasis [ref=e678]: splitter
+                - text: by Delock is suitable for the connection of two
+                - emphasis [ref=e679]: HDMI
+                - text: monitors to a computer with USB-C™ interface and
+                - emphasis [ref=e680]: DisplayPort
+                - text: alternate mode support. Two ...
+              - link "Read more" [ref=e681] [cursor=pointer]:
+                - /url: https://www.delock.com/produkt/87719/pdf.html?sprache=en#:~:text=This%20splitter%20by%20Delock%20is,Two%20monitors%20can%20be%20operated
+          - generic [ref=e688]:
+            - generic [ref=e691]:
+              - link "Add MULTIPLE Displays to ANY Setup - HDMI Splitter vs ... YouTube · Jammy Munky 11.1K+ views · 3 months ago" [ref=e693] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=dYEV0vuKG6s
+                - heading "Add MULTIPLE Displays to ANY Setup - HDMI Splitter vs ..." [level=3] [ref=e694]
+                - generic [ref=e699]:
+                  - generic [ref=e701]: YouTube · Jammy Munky
+                  - generic [ref=e703]: 11.1K+ views · 3 months ago
+              - button "About this result" [ref=e704] [cursor=pointer]:
+                - img [ref=e707]
+            - generic [ref=e709]:
+              - button "Add MULTIPLE Displays to ANY Setup - HDMI Splitter vs ... by Jammy Munky on YouTube. Play on Google. 6:23" [ref=e710] [cursor=pointer]:
+                - generic [ref=e712]:
+                  - img [ref=e715]
+                  - generic [ref=e718]:
+                    - generic [ref=e719]: 6:23
+                    - img [ref=e722]
+              - generic [ref=e725]: "What is an HDMI Splitter | How to setup Multiple Displays. Mark Franks Tech Reviews · 931K views ; LAWYER: If Cops Ask \"Where Are You Coming From?"
+            - generic [ref=e727]: "Missing: encoder ‎POS ‎10"
+          - generic [ref=e731]:
+            - generic [ref=e734]:
+              - link "DisplayPort 1.2 MST Hub | Video Splitters StarTech.com https://www.startech.com › display-video-adapters" [ref=e736] [cursor=pointer]:
+                - /url: https://www.startech.com/en-us/display-video-adapters/mstdp123hd?srsltid=AfmBOoryOr-JOr8pB_Mf8nJ_gXLDo5Anax5HaWb_aqxJIItV2I3v4vFx
+                - heading "DisplayPort 1.2 MST Hub | Video Splitters" [level=3] [ref=e737]
+                - generic [ref=e742]:
+                  - generic [ref=e744]: StarTech.com
+                  - generic [ref=e746]: https://www.startech.com › display-video-adapters
+              - button "About this result" [ref=e747] [cursor=pointer]:
+                - img [ref=e750]
+            - generic [ref=e753]:
+              - generic [ref=e754]:
+                - text: This MST hub lets you connect three
+                - emphasis [ref=e755]: HDMI
+                - text: monitors to your
+                - emphasis [ref=e756]: DisplayPort
+                - text: (DP) 1.2 equipped
+                - emphasis [ref=e757]: Windows
+                - emphasis [ref=e758]: laptop
+                - text: or
+                - emphasis [ref=e759]: desktop
+                - text: .
+              - link "Read more" [ref=e760] [cursor=pointer]:
+                - /url: https://www.startech.com/en-us/display-video-adapters/mstdp123hd?srsltid=AfmBOoryOr-JOr8pB_Mf8nJ_gXLDo5Anax5HaWb_aqxJIItV2I3v4vFx#:~:text=Technical%20Specifications
+            - generic [ref=e762]:
+              - generic [ref=e763]: US$117.86
+              - text: ·
+              - generic [ref=e764]: In stock
+            - generic [ref=e768]: "Missing: encoder ‎POS ‎capture"
+          - generic [ref=e772]:
+            - generic [ref=e775]:
+              - link "Displayport to Dual HDMI Splitter,4K 60Hz Multi-Monitor ... Amazon.com https://www.amazon.com › Displayport-Splitter-Multi-..." [ref=e777] [cursor=pointer]:
+                - /url: https://www.amazon.com/Displayport-Splitter-Multi-Monitor-Computer-Compatible/dp/B0CPDV93YD
+                - heading "Displayport to Dual HDMI Splitter,4K 60Hz Multi-Monitor ..." [level=3] [ref=e778]
+                - generic [ref=e783]:
+                  - generic [ref=e785]: Amazon.com
+                  - generic [ref=e787]: https://www.amazon.com › Displayport-Splitter-Multi-...
+              - button "About this result" [ref=e788] [cursor=pointer]:
+                - img [ref=e791]
+            - generic [ref=e794]:
+              - generic [ref=e795]:
+                - text: "4K High Resolution: The DP to 2"
+                - emphasis [ref=e796]: HDMI splitter
+                - text: supports DP 1.2 input and
+                - emphasis [ref=e797]: HDMI
+                - text: "2.0"
+                - emphasis [ref=e798]: output
+                - text: ", with resolutions up to 4K@60Hz for single"
+                - emphasis [ref=e799]: HDMI
+                - text: monitors and up to 4K@ ...
+              - link "Read more" [ref=e800] [cursor=pointer]:
+                - /url: https://www.amazon.com/Displayport-Splitter-Multi-Monitor-Computer-Compatible/dp/B0CPDV93YD#:~:text=4K%20High%20Resolution%3A%20The%20DP,4K%4030Hz%20for%20dual%20HDMI%20monitors.
+            - generic [ref=e803]: US$16.18 delivery
+            - generic [ref=e805]: "Missing: encoder ‎POS ‎capture"
+          - generic [ref=e809]:
+            - generic [ref=e812]:
+              - link "Delock Displayport 1.2 Splitter 1 x ... Bechtle https://media.bechtle.com › asrc › delock-displayp..." [ref=e814] [cursor=pointer]:
+                - /url: https://media.bechtle.com/asrc/180712/1c4b3d4ee288fc9434f5175bf56070570/c3/-/10d8c6bc86d04c9887a2e17bd8418720/delock-displayport-hdmi-splitter-1-2-datablad-1
+                - heading "Delock Displayport 1.2 Splitter 1 x ..." [level=3] [ref=e815]
+                - generic [ref=e817]:
+                  - img [ref=e821]
+                  - generic [ref=e823]:
+                    - generic [ref=e825]: Bechtle
+                    - generic [ref=e827]: https://media.bechtle.com › asrc › delock-displayp...
+              - generic [ref=e828]:
+                - generic:
+                  - generic: PDF
+              - button "About this result" [ref=e829] [cursor=pointer]:
+                - img [ref=e832]
+            - generic [ref=e835]:
+              - generic [ref=e836]:
+                - text: This
+                - emphasis [ref=e837]: splitter
+                - text: by Delock is suitable for the connection of two.
+                - emphasis [ref=e838]: HDMI
+                - text: monitors to a computer with
+                - emphasis [ref=e839]: Displayport
+                - text: interface. Two monitors can be operated ...
+              - link "Read more" [ref=e840] [cursor=pointer]:
+                - /url: https://media.bechtle.com/asrc/180712/1c4b3d4ee288fc9434f5175bf56070570/c3/-/10d8c6bc86d04c9887a2e17bd8418720/delock-displayport-hdmi-splitter-1-2-datablad-1#:~:text=This%20splitter%20by%20Delock%20is,be%20operated%20simultaneously%20at%20the
+          - generic [ref=e847]:
+            - generic [ref=e850]:
+              - link "Turn One DP Port Into Two 4K Displays – OREI MST Splitter ... YouTube · OREI 1.8K+ views · 4 months ago" [ref=e852] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=6LwEryMcTl8
+                - heading "Turn One DP Port Into Two 4K Displays – OREI MST Splitter ..." [level=3] [ref=e853]
+                - generic [ref=e858]:
+                  - generic [ref=e860]: YouTube · OREI
+                  - generic [ref=e862]: 1.8K+ views · 4 months ago
+              - button "About this result" [ref=e863] [cursor=pointer]:
+                - img [ref=e866]
+            - generic [ref=e868]:
+              - button "Turn One DP Port Into Two 4K Displays – OREI MST Splitter ... by OREI on YouTube. Play on Google. 5:06" [ref=e869] [cursor=pointer]:
+                - generic [ref=e871]:
+                  - img [ref=e877]
+                  - generic [ref=e880]:
+                    - generic [ref=e881]: 5:06
+                    - img [ref=e884]
+              - generic [ref=e887]: It will grab one single display port cable and it will turn into two but it will not only replicate the image, it will give us the option for extended mode.
+            - generic [ref=e889]: "Missing: encoder ‎POS ‎capture"
+          - generic [ref=e893]:
+            - generic [ref=e896]:
+              - link "DisplayPort Video Splitters & Multiviewers - Tripp Lite - Eaton Eaton https://tripplite.eaton.com › products › video-splitters-mu..." [ref=e898] [cursor=pointer]:
+                - /url: https://tripplite.eaton.com/products/video-splitters-multiviewers-displayport~312-1155
+                - heading "DisplayPort Video Splitters & Multiviewers - Tripp Lite - Eaton" [level=3] [ref=e899]
+                - generic [ref=e904]:
+                  - generic [ref=e906]: Eaton
+                  - generic [ref=e908]: https://tripplite.eaton.com › products › video-splitters-mu...
+              - button "About this result" [ref=e909] [cursor=pointer]:
+                - img [ref=e912]
+            - generic [ref=e915]:
+              - generic [ref=e916]:
+                - text: Tripp Lite offers DisplayPort Video Splitters that
+                - emphasis [ref=e917]: can display the same image on 2 monitors
+                - text: ", extend the desktop across them or combine both into one large ..."
+              - link "Read more" [ref=e918] [cursor=pointer]:
+                - /url: https://tripplite.eaton.com/products/video-splitters-multiviewers-displayport~312-1155#:~:text=Tripp%20Lite%20offers%20DisplayPort%20Video,both%20into%20one%20large%20monitor.
+        - generic [ref=e920]:
+          - generic [ref=e925]:
+            - heading "People also search for" [level=2] [ref=e927]
+            - generic [ref=e929]:
+              - generic [ref=e930]:
+                - link "DisplayPort Splitter 1 in 2 out" [ref=e934] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=DisplayPort+Splitter+1+in+2+out&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhGEAE
+                  - generic [ref=e935]:
+                    - generic [ref=e940]: DisplayPort Splitter 1 in 2 out
+                    - img [ref=e944]
+                - link "HDMI to DisplayPort Splitter for Dual Monitors" [ref=e949] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=HDMI+to+DisplayPort+Splitter+for+Dual+Monitors&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhKEAE
+                  - generic [ref=e950]:
+                    - generic [ref=e955]: HDMI to DisplayPort Splitter for Dual Monitors
+                    - img [ref=e959]
+                - link "DisplayPort to HDMI Splitter Extended Display" [ref=e964] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=DisplayPort+to+HDMI+Splitter+Extended+Display&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhLEAE
+                  - generic [ref=e965]:
+                    - generic [ref=e970]: DisplayPort to HDMI Splitter Extended Display
+                    - img [ref=e974]
+                - link "Displayport splitter to hdmi" [ref=e979] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=Displayport+splitter+to+hdmi&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhFEAE
+                  - generic [ref=e980]:
+                    - generic [ref=e985]: Displayport splitter to hdmi
+                    - img [ref=e989]
+              - generic [ref=e991]:
+                - link "Displayport splitter 1 in 4 out" [ref=e995] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=Displayport+splitter+1+in+4+out&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhEEAE
+                  - generic [ref=e996]:
+                    - generic [ref=e1001]: Displayport splitter 1 in 4 out
+                    - img [ref=e1005]
+                - link "1 HDMI to 2 DisplayPort Splitter" [ref=e1010] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=1+HDMI+to+2+DisplayPort+Splitter&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhIEAE
+                  - generic [ref=e1011]:
+                    - generic [ref=e1016]: 1 HDMI to 2 DisplayPort Splitter
+                    - img [ref=e1020]
+                - link "Displayport to displayport splitter" [ref=e1025] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=Displayport+to+displayport+splitter&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhHEAE
+                  - generic [ref=e1026]:
+                    - generic [ref=e1031]: Displayport to displayport splitter
+                    - img [ref=e1035]
+                - link "Displayport splitter nearby" [ref=e1040] [cursor=pointer]:
+                  - /url: /search?sca_esv=d1f5f08a54b0bbc4&hl=en&q=Displayport+splitter+nearby&sa=X&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ1QJ6BAhJEAE
+                  - generic [ref=e1041]:
+                    - generic [ref=e1046]: Displayport splitter nearby
+                    - img [ref=e1050]
+          - navigation [ref=e1052]:
+            - heading "Page navigation" [level=1] [ref=e1053]
+            - text: "1"
+            - link "Page 2" [ref=e1056] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=10&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAE
+              - text: "2"
+            - link "Page 3" [ref=e1058] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=20&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAG
+              - text: "3"
+            - link "Page 4" [ref=e1060] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=30&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAI
+              - text: "4"
+            - link "Page 5" [ref=e1062] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=40&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAK
+              - text: "5"
+            - link "Page 6" [ref=e1064] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=50&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAM
+              - text: "6"
+            - link "Page 7" [ref=e1066] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=60&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAO
+              - text: "7"
+            - link "Page 8" [ref=e1068] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=70&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAQ
+              - text: "8"
+            - link "Page 9" [ref=e1070] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=80&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAS
+              - text: "9"
+            - link "Page 10" [ref=e1072] [cursor=pointer]:
+              - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=90&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8tMDegQIQhAU
+              - text: "10"
+            - heading "Next" [level=2] [ref=e1074]:
+              - link "Next" [ref=e1075] [cursor=pointer]:
+                - /url: /search?q=DisplayPort+splitter+HDMI+encoder+loop+out+POS+screen+capture+Windows+10&sca_esv=d1f5f08a54b0bbc4&hl=en&ei=xRUmatbeFrSHxc8P4Kqc0QQ&start=10&sa=N&sstk=AU9db-B77Ls8UFmVt4IgcD5FWVXsGw9xmnB-AoRthp_zDAuhyIsgY4arJYsTmG0KYR6irlJEE1MMVEIgg5LDAGkQ8Lu8jaBRL5cLAg&ved=2ahUKEwiW1cuNuvaUAxW0Q_EDHWAVJ0oQ8NMDegQIQhAW
+                - generic [ref=e1077]: Next
+        - navigation
+    - contentinfo [ref=e1078]:
+      - heading "Footer links" [level=1] [ref=e1079]
+      - generic [ref=e1083]:
+        - generic [ref=e1085]:
+          - text: Israel
+          - generic [ref=e1087]:
+            - button "Herzliya - Based on your past activity" [ref=e1089] [cursor=pointer]:
+              - generic [ref=e1090]: Herzliya
+              - generic [ref=e1092]:
+                - text: "-"
+                - generic [ref=e1093]: Based on your past activity
+            - text: "-"
+            - button "Update location" [ref=e1095] [cursor=pointer]: Update location
+        - generic [ref=e1098]:
+          - link "Help" [ref=e1099] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IL&fg=1
+          - link "Send feedback" [ref=e1100] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1101] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IL&fg=1
+          - link "Terms" [ref=e1102] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IL&fg=1

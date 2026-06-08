@@ -1,0 +1,511 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "Skip to Content" [ref=e6] [cursor=pointer]:
+        - /url: "#contentarea"
+      - list [ref=e7]:
+        - listitem
+        - listitem [ref=e8]:
+          - link "Support" [ref=e9] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/tech-support.html/
+        - listitem [ref=e10]:
+          - link "Sign In" [ref=e11] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/customer/account/login/referer/aHR0cHM6Ly93d3cuY2N0dmNhbWVyYXdvcmxkLmNvbS9oZG1pLXRvLWlwLWVuY29kZXIuaHRtbA~~/
+          - text: or
+        - listitem [ref=e12]:
+          - link "Create an Account" [ref=e13] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/customer/account/create/
+      - generic "Call Sales or Technical Support" [ref=e15]:
+        - link "(716) 229-0080" [ref=e16] [cursor=pointer]:
+          - /url: tel:17162290080
+        - text: "| 9am - 5pm ET"
+    - generic [ref=e17]:
+      - button "Menu" [ref=e18] [cursor=pointer]:
+        - generic [ref=e19]: Menu
+      - generic [ref=e20]:
+        - link "store logo" [ref=e21] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/
+          - img "CCTV Camera World, Experts in Security & Surveillance Systems" [ref=e22]
+        - img "Free Ground Shipping to Continental USA on orders over $300" [ref=e25]
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - text: 
+            - generic [ref=e31]: Search
+          - combobox " Search" [ref=e33]
+        - button "Search" [ref=e34] [cursor=pointer]:
+          - text: 
+          - generic [ref=e35]: Search
+      - link " My Cart" [ref=e37] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/checkout/cart/
+        - text: 
+        - generic [ref=e38]: My Cart
+  - navigation [ref=e40]:
+    - list [ref=e41]:
+      - link [disabled] [ref=e42] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/security-cameras.html
+        - text: Security Cameras
+      - list [ref=e43]:
+        - link [disabled] [ref=e44] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/poe-cameras.html
+          - text: PoE Camera
+        - link [disabled] [ref=e45] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-cameras/ai-security-cameras.html
+          - text: AI Security Cameras
+        - link [disabled] [ref=e46] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/license-plate-capture-cameras.html
+          - text: License Plate Camera
+        - link [disabled] [ref=e47] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-cameras/outdoor-security-cameras.html
+          - text: Outdoor Security Cameras
+        - link [disabled] [ref=e48] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/hidden-security-cameras.html
+          - text: Hidden Security Cameras
+        - link [disabled] [ref=e49] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/ptz-cameras.html
+          - text: PTZ Cameras
+        - link [disabled] [ref=e50] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/active-deterrence-cameras.html
+          - text: Active Deterrence Cameras
+        - link [disabled] [ref=e51] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/analog-security-cameras.html
+          - text: Analog Security Cameras
+        - link [disabled] [ref=e52] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-cameras-with-audio.html
+          - text: Security Cameras with Audio
+        - link [disabled] [ref=e53] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-cameras/fisheye-cameras.html
+          - text: Fisheye Security Cameras
+        - link [disabled] [ref=e54] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-cameras/panoramic-security-cameras.html
+          - text: Panoramic Security Cameras
+        - link [disabled] [ref=e55] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/ndaa-compliant.html
+          - text: NDAA Compliant
+      - link [disabled] [ref=e56] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/security-camera-systems.html
+        - text: Security Camera Systems
+      - list [ref=e57]:
+        - link [disabled] [ref=e58] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/4k-security-camera-system.html
+          - text: 4K Security Camera System
+        - link [disabled] [ref=e59] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-camera-systems/ip-camera-systems.html
+          - text: IP Camera System
+        - link [disabled] [ref=e60] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/analog-security-systems.html
+          - text: Analog Security Systems
+        - link [disabled] [ref=e61] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/4-camera-security-system.html
+          - text: 4 Camera Security System
+        - link [disabled] [ref=e62] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/8-camera-security-system.html
+          - text: 8 Camera Security System
+        - link [disabled] [ref=e63] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/16-camera-security-system.html
+          - text: 16 Camera Security System
+        - link [disabled] [ref=e64] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/32-camera-security-system.html
+          - text: 32 Camera Security System
+        - link [disabled] [ref=e65] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-camera-systems/business-commercial-security-camera-systems.html
+          - text: Commercial Grade Surveillance Systems
+        - link [disabled] [ref=e66] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-camera-systems/school-security.html
+          - text: School Security Camera Systems
+        - link [disabled] [ref=e67] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/security-camera-systems/home-security.html
+          - text: Home Security Camera Systems
+      - link [disabled] [ref=e68] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/ip-cameras.html
+        - text: IP Cameras
+      - list [ref=e69]:
+        - link [disabled] [ref=e70] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/1080p-ip-security-cameras.html
+          - text: 1080P IP Cameras
+        - link [disabled] [ref=e71] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/4mp-ip-cameras.html
+          - text: 4MP IP Cameras
+        - link [disabled] [ref=e72] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/5-megapixel-ip-network-cameras.html
+          - text: 5MP IP Cameras
+        - link [disabled] [ref=e73] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/4k-security-cameras.html
+          - text: 4K Security Camera
+        - link [disabled] [ref=e74] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/mini-ip-network-ptz-cameras.html
+          - text: Mini Network PTZ IP Cameras
+        - link [disabled] [ref=e75] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/ip-cameras-with-audio.html
+          - text: IP Cameras with Audio
+        - link [disabled] [ref=e76] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/sd-card-security-cameras.html
+          - text: Security Cameras with SD Card
+        - link [disabled] [ref=e77] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/wireless-ip-cameras.html
+          - text: Wireless IP Cameras
+        - link [disabled] [ref=e78] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/live-streaming-cameras.html
+          - text: Live Stream Cameras
+      - link [disabled] [ref=e79] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/security-digital-video-recorders.html
+        - text: Security DVR
+      - list [ref=e80]:
+        - link [disabled] [ref=e81] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/cctv-security-dvrs.html
+          - text: DVR Recorder
+        - list [ref=e82]:
+          - link [disabled] [ref=e83] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/4-channel-security-dvrs.html
+            - text: 4 Channel Security DVR
+          - link [disabled] [ref=e84] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/8-camera-security-dvr-recorders.html
+            - text: 8 Channel Security DVR
+          - link [disabled] [ref=e85] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/16-channel-security-dvrs.html
+            - text: 16 Channel Security DVR
+          - link [disabled] [ref=e86] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/32-channel-security-dvrs.html
+            - text: 32 Channel Security DVR
+          - link [disabled] [ref=e87] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/dvr-hard-drives.html
+            - text: DVR Hard Drives
+        - link [disabled] [ref=e88] [cursor=pointer]:
+          - /url: https://www.cctvcameraworld.com/network-video-recorders-ip-cameras.html
+          - text: NVR - Network Video Recorder
+        - list [ref=e89]:
+          - link [disabled] [ref=e90] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/4-channel-network-video-recorders.html
+            - text: 4 Channel NVR
+          - link [disabled] [ref=e91] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/8-channel-network-video-recorders.html
+            - text: 8 Channel NVR
+          - link [disabled] [ref=e92] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/16-channel-nvr-recorders.html
+            - text: 16 Channel NVR
+          - link [disabled] [ref=e93] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/32-channel-nvr-recorders.html
+            - text: 32 Channel NVR
+          - link [disabled] [ref=e94] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/64-128-channel-nvr-recorders-servers.html
+            - text: 64 / 128 Channel NVR
+          - link [disabled] [ref=e95] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/poe-nvr-recorders.html
+            - text: PoE NVR
+          - link [disabled] [ref=e96] [cursor=pointer]:
+            - /url: https://www.cctvcameraworld.com/4k-nvr-recorders.html
+            - text: 4K NVR Recorders
+      - link [disabled] [ref=e97] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/cctv-accessories.html
+        - text: CCTV Accessories
+      - link [disabled] [ref=e98] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/blog/
+        - text: Blog
+      - link [disabled] [ref=e99] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/best-deals.html
+        - text: Deals
+  - generic [ref=e100]:
+    - text: "Flash Sale: Use code"
+    - generic [ref=e101]: 15AVAEYE
+    - text: for
+    - generic [ref=e102]: 15% OFF
+    - link "AvaEye Cameras" [ref=e103] [cursor=pointer]:
+      - /url: https://www.cctvcameraworld.com/avaeye.html
+  - generic [ref=e104]:
+    - text: Use coupon code
+    - generic [ref=e105]: KITS2026
+    - text: to get an additional
+    - generic [ref=e106]: 7% OFF
+    - link "System Packages" [ref=e107] [cursor=pointer]:
+      - /url: https://www.cctvcameraworld.com/security-camera-systems.html
+    - text: by SCI
+  - list [ref=e109]:
+    - listitem [ref=e110]:
+      - link "Home" [ref=e111] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/
+      - text: 
+    - listitem [ref=e112]:
+      - link "CCTV Accessories" [ref=e113] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/cctv-accessories.html
+      - text: 
+    - listitem [ref=e114]:
+      - link "CCTV Monitors" [ref=e115] [cursor=pointer]:
+        - /url: https://www.cctvcameraworld.com/cctv-security-monitors.html
+      - text: 
+    - listitem [ref=e116]:
+      - strong [ref=e117]: HDMI to IP Encoder, ONVIF Compatible
+  - main [ref=e118]:
+    - generic:
+      - generic:
+        - alert
+        - alert
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - heading "HDMI to IP Encoder, ONVIF Compatible" [level=1] [ref=e123]
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e126]: "Rating:"
+            - generic "100%" [ref=e127]:
+              - text: 
+              - generic [ref=e128]:
+                - text: 
+                - generic [ref=e129]:
+                  - generic [ref=e130]: "100"
+                  - text: "% of"
+                  - generic [ref=e131]: "100"
+          - generic [ref=e132]:
+            - link "2 Reviews" [ref=e133] [cursor=pointer]:
+              - /url: https://www.cctvcameraworld.com/hdmi-to-ip-encoder.html#reviews
+            - link "Add Your Review" [ref=e134] [cursor=pointer]:
+              - /url: https://www.cctvcameraworld.com/hdmi-to-ip-encoder.html#review-form
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - generic [ref=e138]:
+              - text: ":"
+              - generic [ref=e139]: $249.99
+            - generic [ref=e140]:
+              - generic [ref=e142]: $329.99
+              - generic [ref=e144]: 24% off
+          - generic [ref=e145]:
+            - generic "Availability" [ref=e146]: In stock
+            - generic [ref=e147]:
+              - strong [ref=e148]: "SKU:"
+              - generic [ref=e149]: HDMIP
+            - generic [ref=e150]:
+              - strong [ref=e151]: "Brand:"
+              - link "AvaEye" [ref=e152] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/avaeye.html
+        - generic [ref=e156]:
+          - generic [ref=e157]:
+            - generic [ref=e158]: Qty
+            - spinbutton "Qty" [ref=e160]: "1"
+          - generic [ref=e161]:
+            - button "Add to Cart" [disabled]
+        - heading "Overview" [level=3] [ref=e162]
+        - generic [ref=e164]:
+          - paragraph [ref=e165]:
+            - strong [ref=e166]: HDMI To IP Encoder
+            - text: "- Converts a compatible HDMI video source into an IP video stream for viewing, recording, or online streaming."
+          - paragraph [ref=e167]:
+            - strong [ref=e168]: Onvif Compatible
+            - text: "- Can send encoded video to compatible ONVIF NVRs or recorders when configured on the same network."
+          - paragraph [ref=e169]:
+            - strong [ref=e170]: Wide Protocol Support
+            - text: "- Supports RTSP, RTMP, HLS, UDP, FLV, HTTP, and ONVIF streams for flexible network video use."
+          - paragraph [ref=e171]:
+            - strong [ref=e172]: Live Streaming Ready
+            - text: "- Can stream compatible HDMI video and audio to supported platforms like YouTube Live, Facebook Live, Twitch, and Livestream."
+          - paragraph [ref=e173]:
+            - strong [ref=e174]: 1080P HDMI Input
+            - text: "- Supports HDMI input resolutions including 1080P, 1080i, 720P, 576i, and 480i with up to 1080P 60Hz output."
+          - paragraph [ref=e175]:
+            - strong [ref=e176]: Standard Audio Support
+            - text: "- Encodes audio from the HDMI signal using supported formats including AAC, MP3, AC3, and G.711A."
+          - paragraph [ref=e177]:
+            - strong [ref=e178]: Convenient Web Interface
+            - text: "- This encoder has a web interface that allows the user to configure and watch it from a web browser."
+      - generic [ref=e179]:
+        - link "Skip to the end of the images gallery" [ref=e180] [cursor=pointer]:
+          - /url: "#gallery-next-area"
+        - img "main product photo" [ref=e182]
+        - link "Skip to the beginning of the images gallery" [ref=e183] [cursor=pointer]:
+          - /url: "#gallery-prev-area"
+      - generic [ref=e185]:
+        - link "Details" [ref=e187] [cursor=pointer]:
+          - /url: "#description"
+        - generic "Details" [ref=e188]:
+          - generic [ref=e190]:
+            - paragraph [ref=e191]:
+              - text: Our HDMI to IP Encoder allows you to take an HDMI output from any 1080P video source and encode it to stream over the network. The video stream can be viewed over the network on a computer, record to one of our
+              - link "DVR recorders" [ref=e192] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/cctv-security-dvrs.html
+              - text: ", or upload the stream to YouTube. Setup is easy by connecting the encoder to your network, and plugging in the HDMI cable for the device you would like to stream. After the devices are connected you can access the encoder using a web interface to configure it and start streaming to your favorite services like YouTube, Facebook Live, Twitch, or Livestream. You can also backup the output of this encoder to any of our"
+              - link "Network Video Recorders" [ref=e193] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/network-video-recorders-ip-cameras.html
+              - text: by adding it as a camera.
+            - paragraph [ref=e194]: Please note all transcoding has a certain latency or delay associated with it. Usually it is 1-2 seconds on high speed 1 gigabit networks without any hops. If your application is sensitive to video latency then please do not use such transcoders.
+            - paragraph [ref=e195]: Possible Use Scenarios
+            - paragraph [ref=e196]:
+              - img [ref=e197]
+            - paragraph [ref=e198]:
+              - text: To make it easier for our users to get the most out of our HDMI to IP video encoder (HDMIP) we've made the following tutorial videos. The first video is an overview of how to use the video encoder to take a 1080P video input and capture it on a
+              - link "NVR recorder" [ref=e199] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/network-video-recorders-ip-cameras.html
+              - text: . In this tutorial we show how to capture the NVR's own video output and record it as a video channel over the network using the ONVIF video standard. We provide an overview of the basic settings needed to use the HDMIP encoder from start to finish.
+            - generic [ref=e201]:
+              - img "click to play the video" [ref=e202] [cursor=pointer]
+              - button "Play" [ref=e203] [cursor=pointer]:
+                - img [ref=e204]
+            - paragraph [ref=e207]:
+              - text: In the second video below we show this video encoder can be used to capture a HDMI video signal and streamed directly to the back of our
+              - link "PoE NVR" [ref=e208] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/poe-nvr-recorders.html
+              - text: . Standalone PoE NVRs have plug and play PoE ports that are engineered for use specifically with our
+              - link "PoE cameras" [ref=e209] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/poe-cameras.html
+              - text: . The plug and play operation on the cameras does not require the user to posses any networking knowledge. However, when adding ONVIF devices such as this video encoder, you have to login to the encoder and set it to an IP address in the subnet 10.1.1.X for it to be detected by the PoE NVR. We show the whole process from beginning to end. In the video we show how to capture the video output from a computer for recording to an NVR.
+            - generic [ref=e211]:
+              - img "click to play the video" [ref=e212] [cursor=pointer]
+              - button "Play" [ref=e213] [cursor=pointer]:
+                - img [ref=e214]
+            - paragraph [ref=e217]: You can even use this video encoder to stream video directly to YouTube Live. As long as you have both video and audio on the HDMI signal, it can be pushed to YouTube. We explain the process in the video below
+            - generic [ref=e219]:
+              - img "click to play the video" [ref=e220] [cursor=pointer]
+              - button "Play" [ref=e221] [cursor=pointer]:
+                - img [ref=e222]
+            - paragraph [ref=e225]: Features
+            - list [ref=e226]:
+              - listitem [ref=e227]: HDMI to IP Stream Encoder
+              - listitem [ref=e228]: Stream an HDMI output to your favorite streaming services like YouTube Live, Facebook Live, Twitch, or Livestream
+              - listitem [ref=e229]: Record HDMI output from a PC or other device to an NVR
+              - listitem [ref=e230]: "HDMI Input Resolution: Full HD 1080P, 1080i, 720P, 480i"
+              - listitem [ref=e231]: 1080P Stream Output Resolution
+              - listitem [ref=e232]: Supports RTSP, RTMP, HLS and ONVIF streams
+              - listitem [ref=e233]: 12V 1A Power Supply Included
+              - listitem [ref=e234]: Indoor use only
+              - listitem [ref=e235]: NDAA Compliant
+            - paragraph [ref=e236]: What's included?
+            - list [ref=e237]:
+              - listitem [ref=e238]: (1) HDMI to IP Encoder
+              - listitem [ref=e239]: (1) 12V 1A Power Adapter
+            - paragraph [ref=e240]: Specifications
+            - table [ref=e241]:
+              - rowgroup [ref=e242]:
+                - row "Video and Audio Input 1x HDMI ( 1.4) HDCP" [ref=e243]:
+                  - cell "Video and Audio Input" [ref=e244]
+                  - cell "1x HDMI ( 1.4) HDCP" [ref=e245]
+                - row "Input Resolution 1080p, 1080i, 720p, 576i, 480i" [ref=e246]:
+                  - cell "Input Resolution" [ref=e247]
+                  - cell "1080p, 1080i, 720p, 576i, 480i" [ref=e248]
+                - row "Encoding H.264/AVC Baseline/Main/High Profile" [ref=e249]:
+                  - cell "Encoding" [ref=e250]
+                  - cell "H.264/AVC Baseline/Main/High Profile" [ref=e251]
+                - row "Output Resolution Max. 1080P 60Hz" [ref=e252]:
+                  - cell "Output Resolution" [ref=e253]
+                  - cell "Max. 1080P 60Hz" [ref=e254]
+                - row "Data Rate 0.2Mbps - 32 Mbps" [ref=e255]:
+                  - cell "Data Rate" [ref=e256]
+                  - cell "0.2Mbps - 32 Mbps" [ref=e257]
+                - row "Rate Control CBR/VBR" [ref=e258]:
+                  - cell "Rate Control" [ref=e259]
+                  - cell "CBR/VBR" [ref=e260]
+                - row "Video Enhancement De-interlacing, Image Enhancement, Noise Reduction, Sharpening" [ref=e261]:
+                  - cell "Video Enhancement" [ref=e262]
+                  - cell "De-interlacing, Image Enhancement, Noise Reduction, Sharpening" [ref=e263]
+                - row "Latency Time 500ms best case scenario" [ref=e264]:
+                  - cell "Latency Time" [ref=e265]
+                  - cell "500ms best case scenario" [ref=e266]
+                - row "OSD 4x Image or text, or 1 scrolling text" [ref=e267]:
+                  - cell "OSD" [ref=e268]
+                  - cell "4x Image or text, or 1 scrolling text" [ref=e269]
+                - row "Audio Encoding AAC/AAC+/MP3/MP2/AC3/G.711A" [ref=e270]:
+                  - cell "Audio Encoding" [ref=e271]
+                  - cell "AAC/AAC+/MP3/MP2/AC3/G.711A" [ref=e272]
+                - row "Sampling Rate 44100/48000Hz 24 bit" [ref=e273]:
+                  - cell "Sampling Rate" [ref=e274]
+                  - cell "44100/48000Hz 24 bit" [ref=e275]
+                - row "Audio Bit-rate 32K/48K/64K/96K/128K/160K/192K/384K" [ref=e276]:
+                  - cell "Audio Bit-rate" [ref=e277]
+                  - cell "32K/48K/64K/96K/128K/160K/192K/384K" [ref=e278]
+                - row "Network Interface Ethernet 100 Base-T" [ref=e279]:
+                  - cell "Network Interface" [ref=e280]
+                  - cell "Ethernet 100 Base-T" [ref=e281]
+                - row "Protocols HTTP/RTSP/RTMP/HLS/FLV/UDP/ONVIF" [ref=e282]:
+                  - cell "Protocols" [ref=e283]
+                  - cell "HTTP/RTSP/RTMP/HLS/FLV/UDP/ONVIF" [ref=e284]
+                - row "NTP Supported" [ref=e285]:
+                  - cell "NTP" [ref=e286]
+                  - cell "Supported" [ref=e287]
+                - row "Dimensions 10.8 x 9.5 x 3 cm" [ref=e288]:
+                  - cell "Dimensions" [ref=e289]
+                  - cell "10.8 x 9.5 x 3 cm" [ref=e290]
+                - row "Net Weight 8 oz" [ref=e291]:
+                  - cell "Net Weight" [ref=e292]
+                  - cell "8 oz" [ref=e293]
+                - row "Operating Temperature 32°F - 113°F" [ref=e294]:
+                  - cell "Operating Temperature" [ref=e295]
+                  - cell "32°F - 113°F" [ref=e296]
+                - row "Power 12V DC 1 A - 5W Max" [ref=e297]:
+                  - cell "Power" [ref=e298]
+                  - cell "12V DC 1 A - 5W Max" [ref=e299]
+        - link "More Information" [ref=e301] [cursor=pointer]:
+          - /url: "#additional"
+        - link "Reviews (2)" [ref=e303] [cursor=pointer]:
+          - /url: "#reviews"
+        - text: "* *       *       *       * * *"
+        - link "Product Questions" [ref=e305] [cursor=pointer]:
+          - /url: "#aw_pquestion_product_page_pquestion_block"
+      - generic [ref=e306]:
+        - heading "Related Products" [level=2] [ref=e308]
+        - generic "Related Products" [ref=e309]:
+          - generic [ref=e310]:
+            - text: Check items to add to the cart or
+            - button "select all" [ref=e311] [cursor=pointer]
+          - generic:
+            - list: 
+  - contentinfo [ref=e312]:
+    - generic [ref=e313]:
+      - generic [ref=e314]:
+        - img "30 Day Return Policy" [ref=e316]
+        - img "We Ship Worldwide" [ref=e318]
+        - img "1 Year Warranty" [ref=e320]
+        - img "No Monthly Fees" [ref=e322]
+      - generic [ref=e323]:
+        - generic [ref=e326]:
+          - paragraph [ref=e327]: Secure Site and Checkout
+          - paragraph [ref=e328]: Intelligent Security with latest TLS encryption
+        - generic [ref=e330]:
+          - paragraph [ref=e331]: Got Questions?
+          - paragraph [ref=e332]: Call Us 1.716.229.0080
+      - generic [ref=e334]:
+        - generic [ref=e335]:
+          - heading "Follow Us" [level=4] [ref=e336]
+          - list [ref=e337]:
+            - listitem [ref=e338]:
+              - link "Subscribe to our YouTube channel" [ref=e339] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/cctvcameraworld
+            - listitem [ref=e340]:
+              - link "Follow us on Twitter" [ref=e341] [cursor=pointer]:
+                - /url: https://twitter.com/CCTVCameraWorld
+            - listitem [ref=e342]:
+              - link "Follow us on LinkedIn" [ref=e343] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/cctv-camera-world
+        - generic [ref=e344]:
+          - heading "Knowledge base" [level=4] [ref=e345]:
+            - link "Knowledge base" [ref=e346] [cursor=pointer]:
+              - /url: https://www.cctvcameraworld.com/blog/
+          - list [ref=e347]:
+            - listitem [ref=e348]:
+              - link "Free Remote Viewing" [ref=e349] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/iphone-ipad-app-remote-viewing-security-cameras/
+            - listitem [ref=e350]:
+              - link "How to Choose Security Cameras" [ref=e351] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/security-camera-guide/
+            - listitem [ref=e352]:
+              - link "Security Camera Help" [ref=e353] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/security-camera-help/
+            - listitem [ref=e354]:
+              - link "DVR NVR Help" [ref=e355] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/dvr-nvr-help/
+        - generic [ref=e356]:
+          - heading "Ask for help" [level=4] [ref=e357]
+          - list [ref=e358]:
+            - listitem [ref=e359]:
+              - link "Submit Support Question" [ref=e360] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/tech-support.html
+            - listitem [ref=e361]:
+              - link "RMA Request Form" [ref=e362] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/rma-form.html
+            - listitem [ref=e363]:
+              - link "Return Policy" [ref=e364] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/return-policy.html
+        - generic [ref=e365]:
+          - heading "Get in touch" [level=4] [ref=e366]
+          - list [ref=e367]:
+            - listitem [ref=e368]:
+              - link "Email Us" [ref=e369] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/contacts/
+            - listitem [ref=e370]:
+              - link "Become a Dealer" [ref=e371] [cursor=pointer]:
+                - /url: https://www.cctvcameraworld.com/security-camera-wholesale-dealer.html
+  - generic [ref=e372]: Copyright © 2014-present CCTV Camera World. All rights reserved.

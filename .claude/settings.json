@@ -44,7 +44,8 @@
       "PowerShell(npm show @playwright/mcp version 2>&1)",
       "PowerShell(Start-Process \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\\\\sticker-gunior.svg\")",
       "PowerShell(explorer \"C:\\\\Users\\\\yaniv\\\\����� ���� ����� �� ������� ������\")",
-      "PowerShell(Start-Process \"C:\\\\Users\\\\Public\\\\sticker-gunior.svg\")"
+      "PowerShell(Start-Process \"C:\\\\Users\\\\Public\\\\sticker-gunior.svg\")",
+      "PowerShell(claude mcp add playwright npx @playwright/mcp@latest)"
     ],
     "additionalDirectories": [
       "C:\\Users\\yaniv\\.claude",
